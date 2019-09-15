@@ -8,7 +8,7 @@ It supports following operations of Hash map:
 #### Update
 #### Resize
 
-The implementation uses open addressing/Closed hashing and double hashing to handle the collisions.
+The implementation uses open addressing and double hashing to handle the collisions.
 
 ## How to Run
 
