@@ -2,10 +2,11 @@
 
 This project implements hash map in C language. This may be used as user defined data structure in programs of C.
 It supports following operations of Hash map:
-### Insert
-### Delete
-### Search
-### Update
+#### Insert
+#### Delete
+#### Search
+#### Update
+#### Resize
 
 The implementation uses open addressing/Closed hashing and double hashing to handle the collisions.
 
